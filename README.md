@@ -20,17 +20,26 @@ Supports chained calculations without restarting the program.
 5. Type `Y` to continue calculating with the result
 6. Type `N` to restart with a new number
 
-## Example 
-
-1. What's your number? 10
-2. Pick a operation: +
-3. What's your next number? 5
-4.10.0 + 5.0 = 15.0
-5.Type 'Y' to continue or 'N' to restart: Y
-
-
-
-
+## Example
+``
+What's your number? 10
++
+-
+*
+/
+Pick a operation: +
+What's your next number? 5
+10.0 + 5.0 = 15.0
+type 'Y' to continue calculating with 15.0 or 'N' to restart: Y
++
+-
+*
+/
+Pick a operation: *
+What's your next number? 2
+15.0 * 2.0 = 30.0
+type 'Y' to continue calculating with 30.0 or 'N' to restart: N
+``
 ## Built With
 - Python 3.14
 ## Author
