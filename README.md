@@ -20,9 +20,9 @@ Supports chained calculations without restarting the program.
 5. Type `Y` to continue calculating with the result
 6. Type `N` to restart with a new number
 
+Markdown
 ## Example
-What's your number? 10
-'''tex'''
+'''text
 +
 -
 *
