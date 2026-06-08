@@ -20,14 +20,7 @@ Supports chained calculations without restarting the program.
 5. Type `Y` to continue calculating with the result
 6. Type `N` to restart with a new number
 
-Markdown
 ## Example
-'''text
-+
--
-*
-/
-Pick a operation: +
 What's your next number? 5
 10.0 + 5.0 = 15.0
 type 'Y' to continue calculating with 15.0 or 'N' to restart: Y
