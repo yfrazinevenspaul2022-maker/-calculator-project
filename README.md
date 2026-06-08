@@ -20,7 +20,8 @@ Supports chained calculations without restarting the program.
 5. Type `Y` to continue calculating with the result
 6. Type `N` to restart with a new number
 
-## Example
+## Example 
+
 What's your number? 10
 Pick a operation: +
 What's your next number? 5
