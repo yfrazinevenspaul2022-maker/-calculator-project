@@ -22,6 +22,7 @@ Supports chained calculations without restarting the program.
 
 ## Example
 What's your number? 10
+'''tex'''
 +
 -
 *
