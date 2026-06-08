@@ -21,6 +21,13 @@ Supports chained calculations without restarting the program.
 6. Type `N` to restart with a new number
 
 ## Example
+'''text
+what's your number? 10
++
+-
+*
+/
+pick a operation: +
 What's your next number? 5
 10.0 + 5.0 = 15.0
 type 'Y' to continue calculating with 15.0 or 'N' to restart: Y
