@@ -22,11 +22,11 @@ Supports chained calculations without restarting the program.
 
 ## Example 
 
-What's your number? 10
-Pick a operation: +
-What's your next number? 5
-10.0 + 5.0 = 15.0
-Type 'Y' to continue or 'N' to restart: Y
+1. What's your number? 10
+2. Pick a operation: +
+3. What's your next number? 5
+4.10.0 + 5.0 = 15.0
+5.Type 'Y' to continue or 'N' to restart: Y
 
 
 
